@@ -93,7 +93,7 @@ export default function App() {
           transition={{ duration: 2, ease: "easeOut" }}
         >
           <img
-            src="/Heidelberg CD102 printing.png"
+            src="/hero-bg.png"
             alt=""
             className="w-full h-full object-cover object-center grayscale"
           />
