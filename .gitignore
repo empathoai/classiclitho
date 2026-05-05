@@ -25,12 +25,3 @@ dist-ssr
 
 # Agent files
 .agents/
-
-# Junk assets (Large root images)
-Frame1.png
-frame2.png
-Heidelberg CD102 printing.png
-HpIndigo7900.png
-Maquina.png
-Zund G3-L3200.png
-logo_header.png
