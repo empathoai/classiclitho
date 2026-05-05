@@ -1,0 +1,36 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Agent files
+.agents/
+
+# Junk assets (Large root images)
+Frame1.png
+frame2.png
+Heidelberg CD102 printing.png
+HpIndigo7900.png
+Maquina.png
+Zund G3-L3200.png
+logo_header.png
